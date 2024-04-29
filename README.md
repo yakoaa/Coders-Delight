@@ -1,3 +1,6 @@
+# Coders-Delight
+CSC325-SOFTWARE ENGINEERING Group Project
+
 ## Current Features:
 
 # 1. Typing Test (words, sentence)
